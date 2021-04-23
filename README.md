@@ -1,5 +1,6 @@
 # Motion-Estimation
-Study of three algorithms for motion estimation to design a tool meant to estimate and compensate motion in a video sequence.
+Study of three algorithms for motion estimation to design a tool meant to estimate and compensate motion in a video sequence.\
+The tiff(tif) files were chosen because of their low complexity in Matlab video coding. 
 
 ## Acknowledge My Teammate
 
